@@ -1,4 +1,4 @@
-ddtest changes
+test changes
 
 - hosts: all
   order: sorted
